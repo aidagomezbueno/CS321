@@ -1,0 +1,6 @@
+[submodule "lab_3"]
+	path = lab_3
+	url = https://github.com/aidagomezbueno/HashTables.git
+[submodule "lab_3_"]
+	path = lab_3_
+	url = https://github.com/aidagomezbueno/HashTables.git
